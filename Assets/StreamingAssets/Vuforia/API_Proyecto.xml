@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="cheesecake-de-fresa" size="1.000000 0.935167" />
+    <ImageTarget name="fresasconcrem" size="1.000000 0.539877" />
+    <ImageTarget name="hotcakes_" size="1.000000 1.085220" />
+    <ImageTarget name="fresas" size="1.000000 0.562500" />
+    <ImageTarget name="calamardo" size="1.000000 0.946822" />
+    <ImageTarget name="violetaparr" size="1.000000 1.112266" />
+    <ImageTarget name="jerry" size="1.000000 1.577287" />
+    <ImageTarget name="doncangrejo" size="1.000000 0.934555" />
+    <ImageTarget name="hellokitty" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
